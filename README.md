@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+E2E Testing
+![image](https://github.com/DewakSuputra/ci-cd/assets/93661562/da60a52b-bea2-4de4-b374-f753cfadd67c)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
