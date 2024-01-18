@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Link Front End: https://react-dashboard-2dc08.web.app/
+Link Firebase: https://console.firebase.google.com/u/0/project/react-dashboard-2dc08/settings/iam?hl=id
 1. yarn
 2. yarn start
 3. login dashboard (Authentication)
